@@ -1,0 +1,9 @@
+# Ownest
+
+> Nabídky nemovitostí kanceláře Ownest.
+
+- Web: https://www.ownest.cz/
+
+## Nabídky (2)
+- Prodej bytu 3+kk 86 m² — Žižkov, 14 390 000 Kč: prodej-bytu-3-kk-86-m2-1161637964/
+- Prodej bytu 4+kk 99 m² — Praha-východ, 12 190 000 Kč: prodej-bytu-4-kk-99-m2-1698529356/
